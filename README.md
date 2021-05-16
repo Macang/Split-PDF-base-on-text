@@ -1,1 +1,1 @@
-# Split-PDF-base-on-text
+# Split PDF base on text
